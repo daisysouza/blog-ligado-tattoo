@@ -1,0 +1,67 @@
+.fa-solid{
+    margin-right: 8px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.writeImput{
+    font-size: 20px;
+    
+    
+}
+
+.write{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+.writeImage{
+    margin-left: 150px;
+    height: 320px;
+    border-radius: 10px;
+    object-fit: cover;
+
+}
+
+.writeForm{
+    position: relative;
+    
+
+}
+
+.writeFormGroup{
+    margin-left: 150px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.writeImput{
+    font-size: 30px;
+    border: none;
+    padding: 10px;
+    width: 67vw;
+    border: none;
+}
+
+.writeSubmit{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    border: none;
+    background-color: #80f762;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 30p;
+    cursor: pointer;
+    color: rgb(3, 3, 3);
+    
+}
+    
+
+.writeText{
+    font-size: 20px;
+    width: 70vw;
+    height: 90vh;
+}
