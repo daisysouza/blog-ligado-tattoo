@@ -30,7 +30,6 @@ export default function Settings() {
             </form>
           </div>
         <Sidebar/>
-      
     </div>
   )
 }
